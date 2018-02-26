@@ -1,0 +1,37 @@
+{
+  "name": "tct-gig-manager",
+  "version": "0.1.0",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "foreman": "^2.0.0",
+    "lodash": "^4.17.5",
+    "moment": "^2.20.1",
+    "nodemon": "^1.15.1",
+    "pg": "^7.4.1",
+    "react": "^16.2.0",
+    "react-addons-css-transition-group": "^15.6.2",
+    "react-beautiful-dnd": "^5.0.0",
+    "react-dom": "^16.2.0",
+    "react-google-maps": "^9.4.5",
+    "react-icons": "^2.2.7",
+    "react-infinite-calendar": "^2.3.1",
+    "react-scripts": "1.1.1",
+    "recompose": "^0.26.0",
+    "semantic-ui-css": "^2.3.0",
+    "semantic-ui-react": "^0.78.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "start-dev": "nf start -p 3000",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "configure": "./sql_db/configuredb.sh"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/react-scripts/config/eslint.js"
+  }
+}

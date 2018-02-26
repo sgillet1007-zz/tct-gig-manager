@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "$12 Suit",
+    "hasAccordion": false
+  },
+  {
+    "id": 2,
+    "title": "Tocame",
+    "hasAccordion": false
+  },
+  {
+    "id": 3,
+    "title": "Green as a Stone",
+    "hasAccordion": true
+  },
+  {
+    "id": 4,
+    "title": "Love is Dumb",
+    "hasAccordion": false
+  },
+  {
+    "id": 5,
+    "title": "Gonna Miss Me",
+    "hasAccordion": false
+  },
+  {
+    "id": 6,
+    "title": "Hey Diddle Diddle",
+    "hasAccordion": false
+  },
+  {
+    "id": 7,
+    "title": "She's Coming Back",
+    "hasAccordion": true
+  },
+  {
+    "id": 8,
+    "title": "Say",
+    "hasAccordion": true
+  },
+  {
+    "id": 9,
+    "title": "Love Ya",
+    "hasAccordion": true
+  },
+  {
+    "id": 10,
+    "title": "Boris",
+    "hasAccordion": true
+  }
+]

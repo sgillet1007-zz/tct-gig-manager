@@ -1,0 +1,3 @@
+const mapUrl = 'aHR0cHM6Ly9tYXBzLmdvb2dsZWFwaXMuY29tL21hcHMvYXBpL2pzP2tleT1BSXphU3lBOV9QVFlvMVFFS1NpWHRTQmxQSGNMLTVoc3ZubnhEdmMmbGlicmFyaWVzPWdlb21ldHJ5LGRyYXdpbmcscGxhY2Vz'
+
+module.exports = mapUrl
